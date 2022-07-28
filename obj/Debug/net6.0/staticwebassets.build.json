@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kmppuJJdAsSM8Y86M1wsDaPM6wG5IermSgvJ3idXrTU=",
+  "Source": "dotnet_codespaces",
+  "BasePath": "_content/dotnet_codespaces",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
